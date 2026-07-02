@@ -9,10 +9,13 @@ This project presents an end-to-end insurance fraud detection solution by combin
 The solution predicts whether an insurance claim is **Fraudulent** or **Legitimate** based on customer and claim-related information while providing actionable insights through interactive dashboards.
 
 ---
-<img width="1918" height="798" alt="image" src="https://github.com/user-attachments/assets/22ebeb10-1d3f-40a7-9c42-7ade582e3168" />
-<img width="1282" height="722" alt="image" src="https://github.com/user-attachments/assets/7ecb371f-724f-40c7-95fa-c3f1d0e45481" />
-<img width="1283" height="730" alt="image" src="https://github.com/user-attachments/assets/854b1bed-5dbe-460f-9d8d-f1e8db789c21" />
-<img width="1282" height="725" alt="image" src="https://github.com/user-attachments/assets/32d92b66-9ca4-45f5-a56a-30e179137356" />
+<img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/9895c60d-20ab-4564-a4f8-e5604be93b15" />
+<img width="1215" height="687" alt="image" src="https://github.com/user-attachments/assets/a0ebce3f-d573-406b-8e54-727f6d16abd1" />
+<img width="1212" height="690" alt="image" src="https://github.com/user-attachments/assets/0f33891e-7177-4a36-bb60-d8171428fb51" />
+<img width="1918" height="810" alt="image" src="https://github.com/user-attachments/assets/45214075-0ecd-4938-b1a8-18a2581dd288" />
+
+
+
 
 
 
