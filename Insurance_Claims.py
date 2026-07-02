@@ -163,6 +163,19 @@ st.markdown("""
     <span style="font-size:13px;color:#4a6280;margin-left:4px">— Insurance Fraud Detection</span>
 </div>
 """, unsafe_allow_html=True)
+import os
+import streamlit as st
+
+st.write("📂 Working directory:", os.getcwd())
+st.write("📁 Root files:", os.listdir("."))
+
+if os.path.exists("models"):
+    st.write("✅ models/ found:", os.listdir("models"))
+else:
+    st.error("❌ models/ folder NOT found on Streamlit Cloud")
+
+st.stop()  # Stop here so we can see the output before the crash
+
 
 # ── Load model ───────────────────────────────────────────────────
 model  = joblib.load("models/fraud_model.pkl")
